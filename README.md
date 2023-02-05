@@ -1,7 +1,6 @@
 ## Hello, I’m @NobiteK 👋
 
-<details>
-  <summary> - 📫 My Contacts:</summary>
-  <a href="https://www.youtube.com/nobitek">Youtube</a><br>
-  <a href="https://discord.com/users/430436408386125824">Discord</a><br>
-</details>
+[![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UCtf8GQcJHfhfkiXdCKIHN-g?style=social)
+[![Discord Server](https://img.shields.io/discord/430480255506186241?logo=Discord)
+[![GitHub NobiteK](https://img.shields.io/github/followers/NobiteK?label=follow&style=social)](https://github.com/zebratic)
+[![Website](https://img.shields.io/badge/Website-nobiteek.pl-2648ff?style=flat-square&logo=google-chrome)](https://nobiteek.pl/)
